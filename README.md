@@ -44,6 +44,6 @@ Feel free to test the output uploading it to your [developer's account](https://
 
 ## Notes
 
-This is proof of concept is a batch ETL process, but in order to convert this process into the fly to can use [Koop](http://koopjs.github.io/) and build a [provider](https://github.com/koopjs?utf8=%E2%9C%93&q=provider&type=&language=) for each datex2 service.
+This proof of concept is a batch ETL process, but in order to convert this process into the fly you can use [Koop](http://koopjs.github.io/) and build a [provider](https://github.com/koopjs?utf8=%E2%9C%93&q=provider&type=&language=) for each datex2 service.
 
 More resources about [Koop](https://esri-es.github.io/awesome-arcgis/arcgis/developers/profiles/devops/technologies/koop/)
