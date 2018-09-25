@@ -38,7 +38,7 @@ Now go to `datex2-geojson-converter` folder and run:
 
 `$ node scripts/camaras_to_geojson.js`
 
-This will update the file `datex2-geojson-converter/data/geojson`.
+This will update the file `datex2-geojson-converter/data/geojson/cameras.geojson`.
 
 Feel free to test the output uploading it to your [developer's account](https://developers.arcgis.com/sign-up/) [content folder in www.arcgis.com](https://www.arcgis.com/home/content.html).
 
