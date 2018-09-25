@@ -32,7 +32,7 @@ First run datex2-linker consuming the service:
 
 `$ datex2-linker --source "http://infocar.dgt.es/datex2/dgt/CCTVSiteTablePublication/all/content.xml" --base "http://localhost:8000/" `
 
-Now open de service `http://localhost/data.json` and save the JSON output in `datex2-geojson-converter/data/json` as `cameras.json` (you can overwrite the existing file).
+Now open de service `http://localhost:8000/data.json` and save the JSON output in `datex2-geojson-converter/data/json` as `cameras.json` (you can overwrite the existing file).
 
 Now go to `datex2-geojson-converter` folder and run:
 
